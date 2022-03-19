@@ -1,0 +1,24 @@
+2022-03-19 20:27:01,691 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-7] Request26
+2022-03-19 20:27:01,694 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-7] Respnce hi 26 welcome to springboot web
+2022-03-19 20:28:43,746 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogRotatingApplication using Java 11.0.8-internal on LAPTOP-D40P45RS with PID 11416 (D:\A-Akshay\work\springboot\log rotating\LogRotating\target\classes started by OMKAR HAJARE in D:\A-Akshay\work\springboot\log rotating\LogRotating)
+2022-03-19 20:28:43,749 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-19 20:28:43,750 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-19 20:28:45,404 INFO org.springframework.boot.StartupInfoLogger [main] Started LogRotatingApplication in 2.426 seconds (JVM running for 3.225)
+2022-03-19 20:30:03,405 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-1] Request30
+2022-03-19 20:30:03,423 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-1] Respnce hi 30 welcome to springboot web
+2022-03-19 20:30:49,446 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-2] Request30
+2022-03-19 20:30:49,447 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-2] Respnce hi 30 welcome to springboot web
+2022-03-19 20:31:29,237 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-5] Request31
+2022-03-19 20:31:29,238 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-5] Respnce hi 31 welcome to springboot web
+2022-03-19 20:32:05,986 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-6] Request32
+2022-03-19 20:32:05,987 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-6] Respnce hi 32 welcome to springboot web
+2022-03-19 20:32:34,084 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-4] Request32
+2022-03-19 20:32:34,085 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-4] Respnce hi 32 welcome to springboot web
+2022-03-19 20:33:03,102 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-8] Request33
+2022-03-19 20:33:03,103 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-8] Respnce hi 33 welcome to springboot web
+2022-03-19 20:33:30,218 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-9] Request33
+2022-03-19 20:33:30,219 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-9] Respnce hi 33 welcome to springboot web
+2022-03-19 20:34:26,870 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-7] Request34
+2022-03-19 20:34:26,872 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-7] Respnce hi 34 welcome to springboot web
+2022-03-19 20:36:32,830 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Request36
+2022-03-19 20:36:32,831 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Respnce hi 36 welcome to springboot web

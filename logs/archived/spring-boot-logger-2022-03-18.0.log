@@ -1,0 +1,39 @@
+2022-03-18 22:43:31,273 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogRotatingApplication using Java 11.0.8-internal on LAPTOP-D40P45RS with PID 30488 (D:\A-Akshay\work\springboot\log rotating\LogRotating\target\classes started by OMKAR HAJARE in D:\A-Akshay\work\springboot\log rotating\LogRotating)
+2022-03-18 22:43:31,283 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-18 22:43:31,285 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-18 22:43:33,347 INFO org.springframework.boot.StartupInfoLogger [main] Started LogRotatingApplication in 2.793 seconds (JVM running for 3.374)
+2022-03-18 22:44:15,006 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-2] Requestomkar
+2022-03-18 22:44:15,023 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-2] Respnce hi omkar welcome to springboot web
+2022-03-18 22:44:18,224 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Requestomkar
+2022-03-18 22:44:18,224 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Respnce hi omkar welcome to springboot web
+2022-03-18 22:45:32,042 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogRotatingApplication using Java 11.0.8-internal on LAPTOP-D40P45RS with PID 2656 (D:\A-Akshay\work\springboot\log rotating\LogRotating\target\classes started by OMKAR HAJARE in D:\A-Akshay\work\springboot\log rotating\LogRotating)
+2022-03-18 22:45:32,052 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-18 22:45:32,052 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-18 23:01:16,503 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogRotatingApplication using Java 11.0.8-internal on LAPTOP-D40P45RS with PID 24804 (D:\A-Akshay\work\springboot\log rotating\LogRotating\target\classes started by OMKAR HAJARE in D:\A-Akshay\work\springboot\log rotating\LogRotating)
+2022-03-18 23:01:16,508 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-18 23:01:16,509 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-18 23:01:18,430 INFO org.springframework.boot.StartupInfoLogger [main] Started LogRotatingApplication in 2.709 seconds (JVM running for 3.49)
+2022-03-18 23:01:43,334 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-1] Requestomkar
+2022-03-18 23:01:43,358 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-1] Respnce hi omkar welcome to springboot web
+2022-03-18 23:01:47,543 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-4] Requestomkar
+2022-03-18 23:01:47,543 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-4] Respnce hi omkar welcome to springboot web
+2022-03-18 23:14:00,658 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogRotatingApplication using Java 11.0.8-internal on LAPTOP-D40P45RS with PID 28276 (D:\A-Akshay\work\springboot\log rotating\LogRotating\target\classes started by OMKAR HAJARE in D:\A-Akshay\work\springboot\log rotating\LogRotating)
+2022-03-18 23:14:00,665 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-18 23:14:00,665 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-18 23:14:02,840 INFO org.springframework.boot.StartupInfoLogger [main] Started LogRotatingApplication in 3.135 seconds (JVM running for 3.873)
+2022-03-18 23:14:02,966 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Requestomkar
+2022-03-18 23:14:02,975 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Respnce hi omkar welcome to springboot web
+2022-03-18 23:14:25,156 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-4] Requesttest
+2022-03-18 23:16:53,090 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-5] Requestabhi
+2022-03-18 23:16:53,094 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-5] Respnce hi abhi welcome to springboot web
+2022-03-18 23:25:52,647 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogRotatingApplication using Java 11.0.8-internal on LAPTOP-D40P45RS with PID 24992 (D:\A-Akshay\work\springboot\log rotating\LogRotating\target\classes started by OMKAR HAJARE in D:\A-Akshay\work\springboot\log rotating\LogRotating)
+2022-03-18 23:25:52,653 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-18 23:25:52,655 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-18 23:25:54,700 INFO org.springframework.boot.StartupInfoLogger [main] Started LogRotatingApplication in 2.742 seconds (JVM running for 3.434)
+2022-03-18 23:26:28,031 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-1] Requestabhi
+2022-03-18 23:26:28,052 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-1] Respnce hi abhi welcome to springboot web
+2022-03-18 23:32:59,006 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Requestabhi
+2022-03-18 23:32:59,008 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-3] Respnce hi abhi welcome to springboot web
+2022-03-18 23:33:06,370 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-4] Requestakshay
+2022-03-18 23:33:06,370 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-4] Respnce hi akshay welcome to springboot web
+2022-03-18 23:33:38,290 DEBUG com.example.demo.controller.LoggingController [http-nio-9090-exec-6] Requesttest

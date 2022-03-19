@@ -1,0 +1,4 @@
+2022-03-19 20:07:28,717 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogRotatingApplication using Java 11.0.8-internal on LAPTOP-D40P45RS with PID 22476 (D:\A-Akshay\work\springboot\log rotating\LogRotating\target\classes started by OMKAR HAJARE in D:\A-Akshay\work\springboot\log rotating\LogRotating)
+2022-03-19 20:07:28,724 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-19 20:07:28,724 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-19 20:07:30,471 INFO org.springframework.boot.StartupInfoLogger [main] Started LogRotatingApplication in 2.613 seconds (JVM running for 3.187)
